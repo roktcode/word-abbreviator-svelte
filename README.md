@@ -1,3 +1,3 @@
-### This is an app that shows the total of first letter for a piece of text!!
+### This is an app that shows the total of all first letters for a piece of text!!
 
 ![demo](demo.png)
